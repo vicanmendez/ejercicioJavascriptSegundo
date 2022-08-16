@@ -1,0 +1,22 @@
+#areaDeJuego {
+    width: 80%;
+    height: 600px;
+    margin-left: 10%;
+    border: 2px solid #AA2222;
+}
+
+#mira {
+    position: absolute;
+   
+}
+
+#target {
+    position: absolute;
+}
+
+#contador{
+
+    font-size: 20px;
+    font-weight: bold;
+    color: #AA2222;
+}
